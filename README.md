@@ -2,7 +2,7 @@
 
 This is designed to be an easy way to start running with Kubernetes in minutes 
 
-Steps for install and running. Prerequisite is that Vagrant must be installed https://www.vagrantup.com/downloads.html 
+Steps for install and running. Prerequisite is that Vagrant must be installed https://www.vagrantup.com/downloads.html , as well as Virtualbox https://www.virtualbox.org/wiki/Downloads 
 
 1) Clone the repo, `cd` into folder
 
